@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.result {
+    display: none;
+}
+
+.active {
+    display: block;
+}
+
+.inactive {
+    display: none;
+}
